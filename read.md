@@ -1,9 +1,5 @@
-我常用的网站[baidu](https://www.baidu.com)
+LESSR
 
-1
+FGNN
 
-我常用的网站[baidu](https://www.baidu.com)
-
-2
-
-3
+[GC-SAN](https://www.ijcai.org/Proceedings/2019/547)
