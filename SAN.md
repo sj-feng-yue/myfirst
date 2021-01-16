@@ -2,7 +2,7 @@
 
 [SAN explain](https://zhuanlan.zhihu.com/p/48508221)
 
-[SAN 代码解读](http://www.uml.org.cn/ai/201911074.asp)
+[SAN 解读(优)](http://www.uml.org.cn/ai/201911074.asp)
 
 long-range dependency
 
