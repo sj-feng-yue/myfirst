@@ -3,3 +3,5 @@
 [relative position](https://github.com/evelinehong/Transformer_Relative_Position_PyTorch/blob/master/relative_position.py)
 
 [nn.rnn NARM](https://github.com/Wang-Shuo/Neural-Attentive-Session-Based-Recommendation-PyTorch/blob/master/narm.py)
+
+[nn.RNN input,output,h_n](https://www.jianshu.com/p/35bef66878e1)
