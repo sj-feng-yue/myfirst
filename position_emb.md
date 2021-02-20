@@ -5,3 +5,5 @@
 [nn.rnn NARM](https://github.com/Wang-Shuo/Neural-Attentive-Session-Based-Recommendation-PyTorch/blob/master/narm.py)
 
 [nn.RNN input,output,h_n](https://www.jianshu.com/p/35bef66878e1)
+
+[torch.gather(output-->h_n)](https://blog.csdn.net/jeryjeryjery/article/details/83591022)
